@@ -1,0 +1,25 @@
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+  <meta name="description" content="Praktikum 6.1">
+  <meta name="keywords" content="HTML Flexbox">
+  <meta name="author" content="Christopher">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="prak61">
+  <title>Praktikum 6.1</title>
+</head>
+<body>
+
+  <div class="container">
+    <img src="https://i2.wp.com/koreabanget.hops.id/wp-content/uploads/2021/09/RM.jpg?resize=569%2C392&ssl=1" alt="" class="img1">
+    <img src="https://i2.wp.com/koreabanget.hops.id/wp-content/uploads/2021/09/RM.jpg?resize=569%2C392&ssl=1" alt="" class="img2">
+    <img src="https://i2.wp.com/koreabanget.hops.id/wp-content/uploads/2021/09/RM.jpg?resize=569%2C392&ssl=1" alt="" class="img3">
+    <img src="https://i2.wp.com/koreabanget.hops.id/wp-content/uploads/2021/09/RM.jpg?resize=569%2C392&ssl=1" alt="" class="img4">
+    <img src="https://i2.wp.com/koreabanget.hops.id/wp-content/uploads/2021/09/RM.jpg?resize=569%2C392&ssl=1" alt="" class="img5">
+    <img src="https://i2.wp.com/koreabanget.hops.id/wp-content/uploads/2021/09/RM.jpg?resize=569%2C392&ssl=1" alt="" class="img6">
+    <img src="https://i2.wp.com/koreabanget.hops.id/wp-content/uploads/2021/09/RM.jpg?resize=569%2C392&ssl=1" alt="" class="img7">
+    <img src="https://i2.wp.com/koreabanget.hops.id/wp-content/uploads/2021/09/RM.jpg?resize=569%2C392&ssl=1" alt="" class="img8">
+  </div>
+
+</body>
+</html>
